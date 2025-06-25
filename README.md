@@ -41,3 +41,21 @@ This is an original work. Authorship and interpretive rights are hereby reserved
 
 
 
+·缺口
+This paper presents the first construction of the "Gap Philosophy System," taking the Gap as the ontological starting point and establishing a structural philosophical framework that spans ontology, epistemology, motivational theory, free will, ethics, and mechanisms of alienation. Core concepts include: the a priori gap, self–other reflection, language–institution–senses as mediating carriers, the threefold structure of alienation, and love as the manifestation of the gap.
+柏拉图会饮篇有一个故事，一开始人是一个圆球（the whole one），但是力量太强大，神非常害怕，于是神把the whole one劈开成了两个人，人们惶惶不可终日，我觉得人为何如此痛苦呢为什么痛苦还要去追寻呢，因为有个类似the whole one被割开有个缺口
+人本身有一种追求自我完备的缺憾，这种本能无法言说，无法定义，但是可以处处感知。为理性指引方向，但理性却始终无法到达，因为语言的边界是思想的边界。是感性的源泉但是不可言说。只能去感受
+正因为有裂口存在但是我们与他人进行映射与回映，即对方是我的灵魂镜像，我要通过你来认识我来完备我，主体与客体进行辩证运动，映射与回映的这个过程的映射载体就是语言，感官，制度等等。这个过程的映射载体回映映射与回映本身不断进行辨证运动。
+本体论：缺口，人本身有一种追求自我完备的缺憾，这种本能无法言说，无法定义，但是可以处处感知。为理性指引方向，但理性却始终无法到达，因为语言的边界是思想的边界。是感性的源泉但是不可言说。只能去感受
+认识论：一切意识行为都是试图投射补全失败再投射的中介。例如语言，逻辑，感官
+动力论：我们因为有缺口要去补全缺口但是却终难以圆满于是不停往复
+论伦理：当我们知道我们的活动来源于缺口的自我补完的时候我们更应该去行动，因为缺口是终点又是起点我们就应该不断自我补全这就是缺口的意义
+论自由意志：自由意志是对于缺口补全补全路径的选择
+论三重异化
+1.	自我完备异化：认为自己是完备的与缺口本身相互割裂进行异化
+2.	自我与他人异化；拒绝中介，无法看到自我被异化，把中介当作终点：把主体当作自身拒绝回映，被异化
+3.	载体与本源异化：将载体与本源异化，比如性本质是映射的生物载体，错误的把性当作本源被异化
+异化本身会导致进一步异化例如从一种逐渐发展成三种程度逐渐加深最后自我崩解
+论爱情：爱本身就是缺口的一种具体表现，爱被异化本身就是对缺口本体最大的拒绝。他们并非有错而是太有灵性走错了第一步随后逐渐加深最后却忘了回家的路导致自我崩解
+论理性之墙
+我们必须思考什么先验的，gap，我，运动三者本身都是先验的我们无法用逻辑给出完整定义，但是可以处处感知。当你询问谁是第一性时候，我们必须我们不知道，因为逻辑无法到达。我们不能用镜子倒影的工具来确认看到镜子本身。所以自主意识和gap的先后问题我们并不知晓，而且我们对于无法言说的应当保持沉默
