@@ -133,3 +133,8 @@ Alienation from Mediums
 Mistaking the medium for the origin—e.g., taking sex as essence rather than a biological carrier of reflection—is alienation.
 
 
+This paper presents the first construction of the "Gap Philosophy System," taking the Gap as the ontological starting point and establishing a structural philosophical framework that spans ontology, epistemology, motivational theory, free will, ethics, and mechanisms of alienation. Its core concepts include: the a priori Gap, self–other reflection, language–institution–senses as mediating carriers, the threefold structure of alienation, and love as the manifestation of the Gap.
+
+Theoretical Author: Eric
+
+Hereby declares originality and reserves the right of authorship and interpretation.
