@@ -1,140 +1,106 @@
-Gap
-This paper presents the first construction of the "Gap Philosophy System," taking the Gap as the ontological starting point and establishing a structural philosophical framework that spans ontology, epistemology, motivational theory, free will, ethics, and mechanisms of alienation.
+Gap Philosophy: Why Philosophy Has Never Begun and Why It Always Fails
 
-Core Concepts:
-Gap is defined as a structural, a priori tension—something perceivable everywhere yet unspeakable, prior to language, reason, and experience.
+This paper presents the first construction of the "Gap Philosophy System," taking the Gap as the ontological starting point and establishing a structural philosophical framework that spans ontology, epistemology, motivational theory, free will, ethics, and mechanisms of alienation. Core concepts include: the a priori gap, self–other reflection, language–institution–senses as mediating carriers, and the threefold structure of alienation.
 
-It is the source of sensation, the collapse of reason, the halt of language, and the origin of action.
+In Plato’s Symposium, there is a story: at first, humans were whole spheres (the whole one), but their power was so great that the gods were afraid. So the gods split the whole one into two halves. Humans became fearful and restless. I wonder why humans suffer so much and why, despite suffering, they still seek? Because the whole one was split apart—there is a gap. Humans have an instinctive, undefinable longing for self-completeness. This instinct cannot be put into words but can be perceived everywhere. It guides reason but reason can never fully reach it. It is the source of sensibility but cannot be expressed, only felt.
 
-The subject is born in response to the Gap.
+We love because of lack, think because of love, and philosophize because of thought.
 
-Mythic Foundation:
-In Plato’s Symposium, there is a story in which the original human was a perfect sphere—the whole one—but the gods, fearing their power, split them in two. Ever since, humans have been in painful search of their other half. This myth reveals a philosophical truth:
-Humans are inherently incomplete; this incompleteness is not incidental but structural.
-It is a gap—the absence of wholeness, a desire for completion that cannot be defined, only felt.
+A priori: A structural tension that can be perceived everywhere but cannot be spoken, prior to language, reason, and experience. It is the beginning of cognition and action (similar to the unconscious and conscious).
 
-We love because we lack,
-We think because we love,
-We philosophize because we think.
+Definition of Gap: A structural tension that can be perceived everywhere but cannot be spoken; it is neither an object of experience nor a logical proposition. It is the source of sensibility, the collapse of reason, the stagnation of language, the origin of action, and the birth of the subject.
 
-The A Priori Nature of the Gap:
-The Gap is a felt yet unspeakable tension, a structural absence that precedes experience, precedes thought, and even precedes language itself.
-It is not an empirical object, nor a logical proposition. It is:
+A priori argument: Everyone has feelings they want to express but cannot. This is the OKGAP a priori argument. People’s inability to express feelings and the failure of action (OK movement a priori) together distinguish subject and object. The subject’s a priori proof: the whole cycle of failure turns an old gap into a new gap. This circular argument reaches the limit of logic but feeling remains, which precisely shows the gap behind it is a priori. These three are all projections of the Gap.
 
-The source of affect
+Formal verification: Gödel’s incompleteness theorem states that in any axiomatic system sufficient to express natural number arithmetic, there exist propositions that cannot be proven true within the system itself. This means any formal system has boundary propositions that cannot be internally closed consistently; there is a structural tension that the system cannot express but nevertheless truly acts upon.
 
-The breakdown of logic
+Because the gap exists, we engage in mutual mapping and reflection with others — others become the mirror of my soul, and I seek self-completion through you. The dialectic movement between subject and object, mapping and reflection, is mediated by language, senses, institutions, etc. This mediation undergoes continuous dialectical movement.
 
-The suspension of language
+Thus,
+gap = the incompleteness of formal systems.
 
-The origin of agency
+Gap: A structural tension that can be perceived everywhere but cannot be spoken; not an object of experience nor a logical proposition. It is the source of sensibility, the collapse of reason, the stagnation of language, the origin of action, and the birth of the subject.
 
-The womb of subjectivity
+Through formal proof, we conclude:
+gap = the essence of action.
+The starting point of behavior is not completeness but the gap.
+Because it cannot be expressed or mastered, we begin to act.
 
-A Priori Argument for the Gap:
-Everyone has felt something they cannot express, and every action has moments of failure or breakdown.
-These are not accidental—they point to the Gap as an a priori condition.
+Gap = the essence of cognition.
+Cognitive unfolding is the continuous projection and reflection of the gap.
+All cognitive activities are successive failures but necessary self-completions.
 
-When feeling cannot become language → Gap
-
-When action fails → Gap
-
-When subject and object become distinct through experience of failure → Gap
-
-When logic reaches its limit yet experience persists → Gap
-
-This recurring structure proves that the Gap is not derived but foundational.
-Each failure gives rise to a new Gap, leading to recursive generation.
-Thus, feeling, action, and selfhood are all projections or echoes of the Gap.
-
-Formal Validation: Gödel’s Incompleteness Theorem
-Gödel’s Incompleteness Theorem shows that:
-
-In any sufficiently powerful formal system, there exist true propositions that cannot be proven within the system itself.
-
-This implies:
-
-No system can be completely self-contained.
-
-There is always a structural tension within the system that escapes expression yet exerts influence.
-
-This tension is the formal analog of the Gap.
-
-Therefore, the Gap = the necessary incompleteness of formal systems.
-
-Repercussions:
-Gap = the metaphysical driver of action
-
-Action begins not in wholeness but in lack.
-We act because we cannot fully understand or express.
-
-Gap = the essence of cognition
-
-Cognition is a projection-and-reflection process, an attempt to bridge the Gap.
-All thought is a necessary but doomed self-completion.
-
-Gap = the genesis of subjectivity
-
-The subject is not pre-given, but emerges from the rupture.
-The subject is the responder to the Gap, the one who feels and acts through it.
+Gap = the birth of subjectivity.
+The subject is not preset but generated from places that cannot close.
+The subject is the perceiver and actor responding to the gap.
 
 Summary:
-The Gap is not a phenomenon, but an a priori structural tension.
-It is the re-discovery of philosophy’s first cause—not god, not law, not substance, but the unspeakable structural force behind sensation, language, and action.
+The gap is not a phenomenon but an a priori tension.
+The gap is the rediscovery of the first mover in philosophy—not a god, not a law, not an entity, but a structural tension transcending language, reason, and experience.
+Gap = the metaphysical driver of action = the logical starting point of cognition = the emergence of subjectivity.
 
-Gap = the metaphysical engine of action
-= the logical starting point of cognition
-= the existential emergence of subjectivity
+Where reason halts, sensibility begins to whisper;
+Where logic collapses, action struggles;
+Where language falls silent, subjectivity quietly emerges;
+This is the gap.
 
-Where reason halts, sensation begins to whisper.
-Where logic collapses, action begins to struggle.
-Where language fails, the subject is silently born.
-This is the Gap.
-
-Ten Fundamental Questions of Philosophy (From the Gap Perspective)
+Ten Philosophical Questions
 Who am I?
-The subject is a reflection of the Gap—a self in constant emergence through failed closure.
+The subject is the reflection of the gap, an ever-generating self-cognitive activity within the gap.
 
 What is the world?
-The world is the total field of projection and reflection—the manifest structure of the Gap.
+The world is the total field of subject’s projection and reflection, the manifest structure of the gap.
 
 How do I know the world?
-Through the dialectic movement of reflection and return between subject and object.
+Through the dialectic movement of mapping and reflection between subject and object.
 
-What does it mean to exist?
-Existence is not being, but the tension perceived within the Gap.
+What does existence mean?
+Existence is not a substance but the tension felt within the gap.
 
 What is freedom?
-Freedom is the choice of paths for completing the Gap—the act dimension of the subject.
+Freedom is the dimension of action where the subject chooses how to complete the gap.
 
 What is time?
-Time is the rhythm of rupture and repair—the unfolding tension of structural incompletion.
+Time is the rhythm of continuous completion and cracking of the gap — the structural incompleteness in motion.
 
 What is space?
-Space is the distribution of tension among carriers—the topological exteriorization of the Gap.
+Space is the distribution of tension among the multiple carriers of the gap — its topological unfolding, the externalization of the gap.
 
 What is value?
-Value is the meaning projected onto the cycles of rupture and mending—ethics under the Gap.
+Value is the meaningful projection onto the continuous completion and cracking of the gap — the generation of ethics under the gap.
 
 What is death?
-Death is the cessation of reflective return—when the subject collapses and cannot echo the Gap.
+Death is the termination of the gap’s movement, the collapse of subjectivity when reflection fails.
 
 Why is philosophy possible?
-Because the search for truth is itself the truth—philosophy is the echo of the Gap’s call.
+Seeking truth is truth itself.
 
-On Threefold Alienation
-Alienation from Completion
-Believing oneself to be whole, detached from the Gap, creates false selfhood.
+On the Threefold Alienation
+Self-completeness alienation: Believing oneself to be complete and thus alienated from the gap itself.
 
-Alienation from Others
-Rejecting intermediaries (language, institution, senses), mistaking them for endpoints, thus rejecting dialectic and becoming alienated from reflection.
+Self-other alienation: Rejecting mediation, unable to see self’s alienation, mistaking mediation for an end, rejecting reflection, and thus alienated.
 
-Alienation from Mediums
-Mistaking the medium for the origin—e.g., taking sex as essence rather than a biological carrier of reflection—is alienation.
+Carrier-origin alienation: Alienating the carrier from the origin; e.g., confusing sexual biology (carrier) for essence (origin), thus alienated.
 
+Views on the History of Philosophy
+On Kant:
+The gap initiates cognition, forming a priori forms that drive cognition to move to complete the gap. Subjectivity is born in this process, iterated multiple times to form understanding.
 
-This paper presents the first construction of the "Gap Philosophy System," taking the Gap as the ontological starting point and establishing a structural philosophical framework that spans ontology, epistemology, motivational theory, free will, ethics, and mechanisms of alienation. Its core concepts include: the a priori Gap, self–other reflection, language–institution–senses as mediating carriers, the threefold structure of alienation, and love as the manifestation of the Gap.
+On Hegel:
+Hegel failed to clarify the starting point of spirit’s movement. Under this view, the absolute spirit does not exist; the core dynamic of dialectics is the internal gap of an incomplete system, the repeated repair and rupture.
 
-Theoretical Author: Eric
+On Wittgenstein:
+Language as a carrier of cognition and action can never fully carry its own meaning. The incapacity of language to fully carry its meaning is not a problem but a structural necessity of the gap.
 
-Hereby declares originality and reserves the right of authorship and interpretation.
+On Existentialism:
+Existence and meaning are recursive breaks at different levels of the gap. Humans are not abandoned subjects; subjectivity is born from the gap’s construction seeking primordial completion. Desire is the pursuit of original remedy; subjectivity is a construct of the gap, not innate.
+
+On Lacan:
+The “big Other” is merely the first systemic patch of the gap and cannot be described by language. Object a is essentially a subset of the gap. The Imaginary is the stage process of subjectivity born under gap’s drive. The Symbolic is a projection and carrier of the gap’s movement. The Real is the gap itself.
+
+On Structuralism:
+Language has no center; it is merely the projection carrier of the gap and cannot bear its essence. Meaning always drifts; meaning is a temporary path for gap compensation. The subject cannot unify; subjectivity arises precisely from the ununifiability of subject-object. Truth is unsayable; truth is the search for truth itself. After deconstruction, there is no construction, yet construction continues; this is the inevitability of the gap’s operation.
+
+On Phenomenology:
+Language cannot carry the truth of phenomena, so return to consciousness and experience themselves. “Intentionality” is essentially a cognitive tension mapping path generated by the gap’s structure; it is a projection. According to Kant, pure reason is absolute and universal. Under Gödel’s incompleteness, phenomenology is essentially a projection. Intentionality is the external projection path of gap cognition. The lifeworld is a sensory layer cognitive illusion constructed by the gap’s compensatory mechanism. Dasein is the structural manifestation of the gap. Being-thrown is the structural manifestation of the gap. The flow of perception is essentially the gap’s mapping on the sensory layer. Phenomena are transient stable images of the gap’s unclosed state.
+
