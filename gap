@@ -1,4 +1,5 @@
 Gap
+我们为什么要学哲学，为什么要不断追问
 哲学为何从未开始哲学为何总是失败
 This paper presents the first construction of the "Gap Philosophy System," taking the Gap as the ontological starting point and establishing a structural philosophical framework that spans ontology, epistemology, motivational theory, free will, ethics, and mechanisms of alienation. Core concepts include: the a priori gap, self–other reflection, language–institution–senses as mediating carriers, the threefold structure of alienation, 
 柏拉图会饮篇有一个故事，一开始人是一个圆球（the whole one），但是力量太强大，神非常害怕，于是神把the whole one劈开成了两个人，人们惶惶不可终日，我觉得人为何如此痛苦呢为什么痛苦还要去追寻呢，因为有个the whole one被割开有个gap。人本身有一种追求自我完备的缺憾，这种本能无法言说，无法定义，但是可以处处感知。为理性指引方向，但理性却始终无法到达。是感性的源泉但是不可言说。只能去感受
