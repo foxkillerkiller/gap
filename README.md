@@ -1,5 +1,5 @@
 Gap Philosophy: Why Philosophy Has Never Begun and Why It Always Fails
-
+Why do we study philosophy, and why do we keep questioning?
 This paper presents the first construction of the "Gap Philosophy System," taking the Gap as the ontological starting point and establishing a structural philosophical framework that spans ontology, epistemology, motivational theory, free will, ethics, and mechanisms of alienation. Core concepts include: the a priori gap, self–other reflection, language–institution–senses as mediating carriers, and the threefold structure of alienation.
 
 In Plato’s Symposium, there is a story: at first, humans were whole spheres (the whole one), but their power was so great that the gods were afraid. So the gods split the whole one into two halves. Humans became fearful and restless. I wonder why humans suffer so much and why, despite suffering, they still seek? Because the whole one was split apart—there is a gap. Humans have an instinctive, undefinable longing for self-completeness. This instinct cannot be put into words but can be perceived everywhere. It guides reason but reason can never fully reach it. It is the source of sensibility but cannot be expressed, only felt.
