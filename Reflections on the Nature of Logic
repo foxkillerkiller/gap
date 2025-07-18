@@ -1,0 +1,27 @@
+From the perspective of gap philosophy, reflecting on logic itself—recursive formal logic
+First Axiom (Gödel's Incompleteness Theorems): Within any formal system, the system cannot be both complete and self-consistent.
+Second Axiom: Logic is not a static structure but a process system undergoing hierarchical evolution.
+
+Regarding paradoxes, they can be viewed as signals of hierarchical leaps, compatible in higher dimensions.
+
+Regarding deductive reasoning (e.g., "I think, therefore I am"), it can be seen as reasoning from level *i* to level *i+1*.
+
+Regarding self-referential paradoxes:
+Within the system, it is impossible to determine whether a statement is true or false, resulting in infinite recursive motion.
+
+Regarding the liar paradox:
+The proposition "This statement is false" cannot be judged at level *i* (as it violates the three foundational principles of logic), while at level *i+1*, it is directly deemed erroneous because it violates the first axiom.
+
+Regarding the three foundational principles of logic:
+
+The law of excluded middle: At a complete level, it aligns with classical logic.
+
+The law of non-contradiction: At level *i*, contradictions are permitted and regarded as indicators for upgrading; at level *i+1*, they are adjudicated.
+
+The law of identity: At level *i*, self-reference can blur identity, while at level *i+1*, equivalence relations are reconstructed. Category theory's notion of equivalence can replace equality here.
+
+Formal Verification:
+This theory can be formally verified using category theory (as I am not deeply familiar with category theory, collaboration is sincerely requested).
+
+Counterarguments to Critics of Dynamic Logic:
+If one questions whether recursive formal logic can verify itself, the answer is yes. Verification inevitably triggers self-reference, causing the system to leap—thereby inherently affirming the validity of recursive formal logic. To refute this, one must first refute Gödel's incompleteness theorems.
