@@ -47,6 +47,11 @@ Hyperlinear Logic is not a static structure but a systematically evolving, hiera
   - **Morphisms:**  
     - **Open-State Generation:** Functor \( F_i: \text{stage}(i)_{\text{closed}} \rightarrow \text{stage}(i+1)_{\text{open}} \) (describes "leap").  
     - **Closed-State Collapse:** Forgetful functor \( U_i: \text{stage}(i+1)_{\text{open}} \rightarrow \text{stage}(i)_{\text{closed}} \) (describes "collapse").  
+Stage_i --(F_i)--> Stage_{i+1}  
+  |                   |  
+(U_i)                (F_{i+1})  
+  v                   v  
+Stage_i <--(U_{i+1})-- Stage_{i+2}  
 
 
 ### Key Functors and Natural Transformations:  
