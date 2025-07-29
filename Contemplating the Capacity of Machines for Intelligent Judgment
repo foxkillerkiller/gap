@@ -18,3 +18,99 @@ Rediscover boundaries in an iterative process
 
 Crucially, this entire procedure must operate within a Turing-complete framework. Only when a machine satisfies these criteria may we legitimately ascribe to it both intelligence and agency.
 
+class SelfReferenceError extends Error {
+  constructor(code, stage) {
+    super(`Self-reference detected at stage ${stage}`);
+    this.code = code;
+    this.stage = stage;
+  }
+}
+
+// 每一个 Stage 就是一个范畴对象
+class CategoryStage {
+  constructor(stage, baseSystem) {
+    this.stage = stage;
+    this.validSyntax = baseSystem.validSyntax.slice();
+    this.metaComment = baseSystem.metaComment || `Stage ${stage} system`;
+  }
+
+  interpret(code) {
+    if (code.includes("this sentence is false")) {
+      throw new SelfReferenceError(code, this.stage);
+    }
+
+    if (!this.validSyntax.some((syntax) => code.startsWith(syntax))) {
+      throw new Error(`非法语法：${code} 不属于 Stage(${this.stage})`);
+    }
+
+    if (code.startsWith("print(")) {
+      const content = code.match(/print\("(.*)"\)/)[1];
+      console.log(`[Stage ${this.stage}] ${content}`);
+    } else {
+      console.log(`[Stage ${this.stage}] Executing: ${code}`);
+    }
+  }
+}
+
+// 系统运行器：持有所有阶段和跃迁逻辑
+class HyperCognitiveSystem {
+  constructor() {
+    this.stages = [];
+    this.currentStage = 0;
+
+    // 初始化 Stage 0
+    this._addStage({
+      validSyntax: ["print", "if"],
+      metaComment: "Base logic system"
+    });
+  }
+
+  _addStage(baseSystem) {
+    const newStage = new CategoryStage(this.stages.length, baseSystem);
+    this.stages.push(newStage);
+  }
+
+  _elevate(code, stage) {
+    console.log(`⚠️ 自指检测！从 Stage(${stage}) ⬆️ 跃迁至 Stage(${stage + 1})`);
+
+    // 用高阶系统扩展规则（范畴跃迁 = 函子作用）
+    const prev = this.stages[stage];
+    const nextRules = {
+      validSyntax: [...prev.validSyntax, "comment"], // 增加一种高阶语法
+      metaComment: `Stage ${stage + 1} reflects on Stage ${stage}`
+    };
+
+    this._addStage(nextRules);
+    this.currentStage++;
+
+    // 在高阶中重构解释
+    const newCode = code.replace(
+      "this sentence is false",
+      `comment("Self-reference at stage ${stage} detected and neutralized")`
+    );
+
+    this.execute(newCode);
+  }
+
+  execute(code) {
+    try {
+      const current = this.stages[this.currentStage];
+      current.interpret(code);
+    } catch (e) {
+      if (e instanceof SelfReferenceError) {
+        this._elevate(e.code, e.stage);
+      } else {
+        console.error(`❌ 错误 @Stage(${this.currentStage}):`, e.message);
+      }
+    }
+  }
+}
+
+// === 测试 ===
+const system = new HyperCognitiveSystem();
+
+system.execute('print("Hello world")');               // 正常执行
+system.execute("this sentence is false");             // 触发悖论，跃迁
+system.execute('print("Still running after paradox")'); // 在 Stage 1 执行
+system.execute('comment("Meta note on paradox.")');     // 高阶系统的新语法
+
