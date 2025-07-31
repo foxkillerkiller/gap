@@ -15,6 +15,10 @@ Copyright (C) 2024 [周增鑫]
 - 教学科研用途：遵循 CC BY 4.0 许可证
 - 商业用途：自动适用 GPLv3 许可证
 - 企业需在首次商业使用时签署《GPL合规声明》
+"一种通过层级跃迁解决自指矛盾的方法，其特征在于包括：
+ 步骤S1：检测代码中的自指模式；
+ 步骤S2：动态创建高维解释器；
+ 步骤S3：在元层面对矛盾进行无害化处理
 The Gödel Test for Machine Intelligence & Agency
 
 I have previously proposed a "Gödel Test" for machine intelligence, defined as follows: A machine demonstrates true intelligence if it can:
